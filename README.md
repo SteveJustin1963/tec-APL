@@ -1,2 +1,2 @@
 # tec-APL
-APL extensions written in firth/forth for the TEC1
+APL code written in ASM/forth for the TEC1
