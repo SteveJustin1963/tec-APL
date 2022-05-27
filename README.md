@@ -6,7 +6,9 @@ APL extensions written in Forth/MINT for the TEC1
 
 | Name(s) |	  Notation  |	  Meaning | MINT  |
 |---------|-------------|-----------|-------|
-|Roll     | ?B          | One integer selected randomly from the first B integers|
+|Roll     | **?B**          | One integer selected randomly from the first B integers|
+|Ceiling  | **⌈B** |  
+
 
 
 
