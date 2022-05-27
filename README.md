@@ -4,6 +4,11 @@ APL extensions written in Forth/MINT for the TEC1
 
 ### Monadic functions
 
+|Name(s)|	Notation|	Meaning|
+
+
+
+
 ### Dyadic functions
 
 
