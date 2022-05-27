@@ -4,8 +4,9 @@ APL extensions written in Forth/MINT for the TEC1
 
 ### Monadic functions
 
-| Name(s) |	  Notation  |	  Meaning |
-|---------|-------------|-----------|
+| Name(s) |	  Notation  |	  Meaning | MINT  |
+|---------|-------------|-----------|-------|
+|Roll     | ?B          | One integer selected randomly from the first B integers|
 
 
 
