@@ -7,9 +7,9 @@ APL extensions written in Forth/MINT for the TEC1
 |Name(s)|Notation|Meaning|wiki|MINT|
 |-------|--------|-------|----|----|
 |Roll    |**?B** |One integer selected randomly from the first B integers|
-|Ceiling |**⌈B** | Least integer greater than or equal to B | https://en.wikipedia.org/wiki/Floor_and_ceiling_functions |
-|Floor   |**⌊B** | Greatest integer less than or equal to B | https://en.wikipedia.org/wiki/Floor_and_ceiling_functions |
-
+|Ceiling |**⌈B** | Least integer greater than or equal to B |https://en.wikipedia.org/wiki/Floor_and_ceiling_functions|
+|Floor   |**⌊B** | Greatest integer less than or equal to B |https://en.wikipedia.org/wiki/Floor_and_ceiling_functions|
+|Shape, Rho|**⍴B**|Number of components in each dimension of B|https://en.wikipedia.org/wiki/Rho|
 
 
 
