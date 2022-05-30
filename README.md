@@ -44,14 +44,10 @@ APL extensions written in Forth/MINT for the TEC1
 |Divide| A÷B| A divided by B| U+00F7 ÷|
 |Exponentiation| A⋆B| A raised to the B power| U+22C6 ⋆|
 |Circle| A○B| Trigonometric functions of B selected by A|
-
-```
 A=1: sin(B)    A=5: sinh(B)
 A=2: cos(B)    A=6: cosh(B)
 A=3: tan(B)    A=7: tanh(B)
-Negatives produce the inverse of the respective functions
-```
-|U+25CB ○|
+Negatives produce the inverse of the respective functions |U+25CB ○|
 |Deal| A?B| A distinct integers selected randomly from the first B integers| U+003F ?|
 |Membership, Epsilon| A∈B| 1 for elements of A present in B; 0 where not.| U+2208 ∈|
 |Find, Epsilon Underbar| A⍷B| 1 for starting point of multi-item array A present in B; 0 where not.| U+2377 ⍷|
