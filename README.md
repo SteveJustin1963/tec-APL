@@ -1,7 +1,7 @@
 # tec-APL
 APL extensions written in Forth/MINT for the TEC1
 
-### https://en.wikipedia.org/wiki/APL_syntax_and_symbols
+
 ### Monadic functions 
 
 |Name(s)|Notation|Meaning|Unicode code point|MINT|
