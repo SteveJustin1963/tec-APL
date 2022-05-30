@@ -2,20 +2,34 @@
 APL extensions written in Forth/MINT for the TEC1
 
 
-### Monadic functions
+### Monadic functions https://en.wikipedia.org/wiki/APL_syntax_and_symbols#Monadic_and_dyadic_functions
 
-|Name(s)|Notation|Meaning|wiki|MINT|
-|-------|--------|-------|----|----|
-|Roll    |**?B** |One integer selected randomly from the first B integers|
-|Ceiling |**⌈B** | Least integer greater than or equal to B |https://en.wikipedia.org/wiki/Floor_and_ceiling_functions|
-|Floor   |**⌊B** | Greatest integer less than or equal to B |https://en.wikipedia.org/wiki/Floor_and_ceiling_functions|
-|Shape,Rho|**⍴B**|Number of components in each dimension of B|https://en.wikipedia.org/wiki/Rho|
-|Not,Tilde|**∼B**|Logical: ∼1 is 0, ∼0 is 1|https://en.wikipedia.org/wiki/Negation|
-|Absolute value|**∣B**|Magnitude of B|https://en.wikipedia.org/wiki/Absolute_value|
-|Index generator, Iota|**⍳B**|Vector of the first B integers|
-|Exponential|	⋆B|	e to the B power|https://en.wikipedia.org/wiki/Exponentiation|
-
-
+|Name(s)|Notation|Meaning|wiki|Unicode code point|MINT|
+|-------|--------|-------|----|----|-----|
+|Roll|	?B|	One integer selected randomly from the first B integers|	U+003F ?|
+Ceiling	⌈B	Least integer greater than or equal to B	U+2308 ⌈
+Floor	⌊B	Greatest integer less than or equal to B	U+230A ⌊
+Shape, Rho	⍴B	Number of components in each dimension of B	U+2374 ⍴
+Not, Tilde	∼B	Logical: ∼1 is 0, ∼0 is 1	U+223C ∼
+Absolute value	∣B	Magnitude of B	U+2223 ∣
+Index generator, Iota	⍳B	Vector of the first B integers	U+2373 ⍳
+Exponential	⋆B	e to the B power	U+22C6 ⋆
+Negation	−B	Changes sign of B	U+2212 −
+Conjugate	+B	The complex conjugate of B (real numbers are returned unchanged)	U+002B +
+Signum	×B	¯1 if B<0; 0 if B=0; 1 if B>0	U+00D7 ×
+Reciprocal	÷B	1 divided by B	U+00F7 ÷
+Ravel, Catenate, Laminate	,B	Reshapes B into a vector	U+002C ,
+Matrix inverse, Monadic Quad Divide	⌹B	Inverse of matrix B	U+2339 ⌹
+Pi times	○B	Multiply by π	U+25CB ○
+Logarithm	⍟B	Natural logarithm of B	U+235F ⍟
+Reversal	⌽B	Reverse elements of B along last axis	U+233D ⌽
+Reversal	⊖B	Reverse elements of B along first axis	U+2296 ⊖
+Grade up	⍋B	Indices of B which will arrange B in ascending order	U+234B ⍋
+Grade down	⍒B	Indices of B which will arrange B in descending order	U+2352 ⍒
+Execute	⍎B	Execute an APL expression	U+234E ⍎
+Monadic format	⍕B	A character representation of B	U+2355 ⍕
+Monadic transpose	⍉B	Reverse the axes of B	U+2349 ⍉
+Factorial	!B	Product of integers 1 to B	U+0021 !
 
 
 
