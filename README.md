@@ -17,19 +17,19 @@ APL extensions written in Forth/MINT for the TEC1
 |Negation|	−B|	Changes sign of B|	U+2212 −|
 |Conjugate|	+B|	The complex conjugate of B (real numbers are returned unchanged)|	U+002B +|
 |Signum|	×B|	¯1 if B<0; 0 if B=0; 1 if B>0|	U+00D7 ×|
-|Reciprocal	÷B	1 divided by B	U+00F7 ÷
-|Ravel, Catenate, Laminate	,B	Reshapes B into a vector	U+002C ,
-|Matrix inverse, Monadic Quad Divide	⌹B	Inverse of matrix B	U+2339 ⌹
-|Pi times	○B	Multiply by π	U+25CB ○
-|Logarithm	⍟B	Natural logarithm of B	U+235F ⍟
-|Reversal	⌽B	Reverse elements of B along last axis	U+233D ⌽
-|Reversal	⊖B	Reverse elements of B along first axis	U+2296 ⊖
-|Grade up	⍋B	Indices of B which will arrange B in ascending order	U+234B ⍋
-|Grade down	⍒B	Indices of B which will arrange B in descending order	U+2352 ⍒
-|Execute	⍎B	Execute an APL expression	U+234E ⍎
-|Monadic format	⍕B	A character representation of B	U+2355 ⍕
-|Monadic transpose	⍉B	Reverse the axes of B	U+2349 ⍉
-|Factorial	!B	Product of integers 1 to B	U+0021 !
+|Reciprocal|	÷B|	1 divided by B|	U+00F7 ÷|
+|Ravel, Catenate, Laminate|	,B|	Reshapes B into a vector|	U+002C ,|
+|Matrix inverse, Monadic Quad Divide|	⌹B|	Inverse of matrix B|	U+2339 ⌹|
+|Pi times|	○B|	Multiply by π|	U+25CB ○|
+|Logarithm|	⍟B|	Natural logarithm of B|	U+235F ⍟|
+|Reversal|	⌽B|	Reverse elements of B along last axis|	U+233D ⌽|
+|Reversal|	⊖Bv	Reverse elements of B along first axis|	U+2296 ⊖|
+|Grade up|	⍋B|	Indices of B which will arrange B in ascending order|	U+234B ⍋|
+|Grade down|	⍒B|	Indices of B which will arrange B in descending order|	U+2352 ⍒|
+|Execute|	⍎B|	Execute an APL expression|	U+234E ⍎|
+|Monadic format|	⍕B|	A character representation of B|	U+2355 ⍕|
+|Monadic transpose|	⍉B|	Reverse the axes of B|	U+2349 ⍉|
+|Factorial|	!B|	Product of integers 1 to B|	U+0021 !|
  
 
 ### Dyadic functions
