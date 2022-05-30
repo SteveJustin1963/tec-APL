@@ -7,10 +7,10 @@ APL extensions written in Forth/MINT for the TEC1
 |Name(s)|Notation|Meaning|wiki|Unicode code point|MINT|
 |-------|--------|-------|----|----|-----|
 |Roll|	?B|	One integer selected randomly from the first B integers|	U+003F ?|
-Ceiling	⌈B	Least integer greater than or equal to B	U+2308 ⌈
-Floor	⌊B	Greatest integer less than or equal to B	U+230A ⌊
-Shape, Rho	⍴B	Number of components in each dimension of B	U+2374 ⍴
-Not, Tilde	∼B	Logical: ∼1 is 0, ∼0 is 1	U+223C ∼
+|Ceiling|	⌈B|	Least integer greater than or equal to B|	U+2308 ⌈|
+|Floor|	⌊B|	Greatest integer less than or equal to B|	U+230A ⌊|
+|Shape, Rho|	⍴B|	Number of components in each dimension of B|	U+2374 ⍴|
+|Not, Tilde|	∼B|	Logical: ∼1 is 0, ∼0 is 1|	U+223C ∼|
 Absolute value	∣B	Magnitude of B	U+2223 ∣
 Index generator, Iota	⍳B	Vector of the first B integers	U+2373 ⍳
 Exponential	⋆B	e to the B power	U+22C6 ⋆
