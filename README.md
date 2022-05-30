@@ -6,7 +6,7 @@ APL extensions written in Forth/MINT for the TEC1
 
 |Name(s)|Notation|Meaning|Unicode code point|MINT|
 |----|----|----|----|----|----|
-|Roll| ?B| One integer selected randomly from the first B integers| U+003F ?|
+|Roll | ?B | One integer selected randomly from the first B integers | U+003F ? |
 
 |Signum| ×B| ¯1 if B<0; 0 if B=0; 1 if B>0| U+00D7 ×|
 |Reciprocal| ÷B| 1 divided by B| U+00F7 ÷|
