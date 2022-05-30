@@ -33,6 +33,12 @@ APL extensions written in Forth/MINT for the TEC1
 |Shape, Rho| ⍴B| Number of components in each dimension of B| U+2374 ⍴|
 
 
+|Name(s)|Notation|Meaning|Unicode code point|MINT|
+|-------|----|----|----|----|----|
+| test|
+
+
+
 
 ### Dyadic functions
 
