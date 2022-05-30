@@ -4,8 +4,8 @@ APL extensions written in Forth/MINT for the TEC1
 
 ### Monadic functions https://en.wikipedia.org/wiki/APL_syntax_and_symbols#Monadic_and_dyadic_functions
 
-|Name(s)|Notation|Meaning|Unicode code point|MINT|
-|-------|----|----|----|----|----|
+|Name(s)|Notation|Meaning|Unicode code point|
+|-------|----|----|----|
 |Roll | ?B | One integer selected randomly from the first B integers | U+003F ? |
 
 |Signum| ×B| ¯1 if B<0; 0 if B=0; 1 if B>0| U+00D7 ×|
@@ -32,13 +32,7 @@ APL extensions written in Forth/MINT for the TEC1
 |Index generator, Iota| ⍳B| Vector of the first B integers| U+2373 ⍳|
 |Shape, Rho| ⍴B| Number of components in each dimension of B| U+2374 ⍴|
 
-
-|Name(s)|Notation|Meaning|Unicode code point|MINT|
-|-------|----|----|----|----|----|
-| test|
-
-
-
+ 
 
 ### Dyadic functions
 
