@@ -36,7 +36,7 @@ APL extensions written in Forth/MINT for the TEC1
 ### Dyadic functions
 
 
-|Name(s)|| Notation| |Meaning| |Unicode code point|
+|Name(s)| Notation| Meaning| Unicode code point|
 |-------|----|----|----|----|
 |Add| A+B| Sum of A and B| U+002B +|
 |Subtract| A−B| A minus B| U+2212 −|
