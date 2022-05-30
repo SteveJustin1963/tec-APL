@@ -13,10 +13,10 @@ APL extensions written in Forth/MINT for the TEC1
 |Not, Tilde|	∼B|	Logical: ∼1 is 0, ∼0 is 1|	U+223C ∼|
 |Absolute value|	∣B|	Magnitude of B|	U+2223 ∣|
 |Index generator, Iota|	⍳B|	Vector of the first B integers|	U+2373 ⍳|
-|Exponential	⋆B	e to the B power	U+22C6 ⋆
-|Negation	−B	Changes sign of B	U+2212 −
-|Conjugate	+B	The complex conjugate of B (real numbers are returned unchanged)	U+002B +
-|Signum	×B	¯1 if B<0; 0 if B=0; 1 if B>0	U+00D7 ×
+|Exponential|	⋆B|	e to the B power|	U+22C6 ⋆|
+|Negation|	−B|	Changes sign of B|	U+2212 −|
+|Conjugate|	+B|	The complex conjugate of B (real numbers are returned unchanged)|	U+002B +|
+|Signum|	×B|	¯1 if B<0; 0 if B=0; 1 if B>0|	U+00D7 ×|
 |Reciprocal	÷B	1 divided by B	U+00F7 ÷
 |Ravel, Catenate, Laminate	,B	Reshapes B into a vector	U+002C ,
 |Matrix inverse, Monadic Quad Divide	⌹B	Inverse of matrix B	U+2339 ⌹
