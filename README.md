@@ -5,7 +5,7 @@ APL extensions written in Forth/MINT for the TEC1
 ### Monadic functions https://en.wikipedia.org/wiki/APL_syntax_and_symbols#Monadic_and_dyadic_functions
 
 |Name(s)|Notation|Meaning|wiki|Unicode code point|MINT|
-|-------|--------|-------|----|----|-----|
+|----|----|----|----|----|----|
 |Roll|	?B|	One integer selected randomly from the first B integers|	U+003F ?|
 |Ceiling|	⌈B|	Least integer greater than or equal to B|	U+2308 ⌈|
 |Floor|	⌊B|	Greatest integer less than or equal to B|	U+230A ⌊|
