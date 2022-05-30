@@ -13,6 +13,7 @@ APL extensions written in Forth/MINT for the TEC1
 |Not,Tilde|**∼B**|Logical: ∼1 is 0, ∼0 is 1|https://en.wikipedia.org/wiki/Negation|
 |Absolute value|**∣B**|Magnitude of B|https://en.wikipedia.org/wiki/Absolute_value|
 |Index generator, Iota|**⍳B**|Vector of the first B integers|
+|Exponential|	⋆B|	e to the B power|https://en.wikipedia.org/wiki/Exponentiation|
 
 
 
